@@ -10,3 +10,5 @@ explorer for rogue
 ## New milestone
 
 ## This is great
+
+## What's next?
